@@ -1,0 +1,95 @@
+body{
+    background:gainsboro ;
+    margin: 0px;
+    border: 0px;
+}
+
+.title h1{
+    background: white;
+    text-align: center;
+}
+
+#photos1{
+    background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+
+#photos1-1 h2{
+	width: 350px;
+	height: 50px;
+	margin: 0;
+	float: left;
+}
+#photos1-2 img{
+	width: 400px;
+	height: 200px;
+}
+#photos1-3 h3{
+	width: 400px;
+	height: 50px;
+}
+#photos2{
+    background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+#photos2-1 h2{
+	width: 350px;
+	height: 50px;
+	margin: 0;
+	float: left;
+}
+#photos2-2 img{
+	width: 400px;
+	height: 200px;
+}
+#photos2-3 h3{
+	width: 400px;
+	height: 50px;
+}
+
+#photos3{
+    background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+#photos3-1 h2{
+	width: 350px;
+	height: 50px;
+	margin: 0;
+	float: left;
+}
+#photos3-2 img{
+	width: 400px;
+	height: 200px;
+}
+#photos3-3 h3{
+	width: 400px;
+	height: 50px;
+}
+
+#photos4{
+    background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+
+#photos4-1 h2{
+	width: 350px;
+	height: 50px;
+	margin: 0;
+	float: left;
+}
+#photos4-2 img{
+	width: 400px;
+	height: 200px;
+}
+#photos4-3 h3{
+	width: 400px;
+	height: 50px;
+}
